@@ -1,1 +1,1 @@
-# quantitativealchemy
+# quantitative alchemy
